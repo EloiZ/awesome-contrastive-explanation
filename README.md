@@ -2,14 +2,16 @@
 A curated list of awesome papers on contrastive explanation in ML.
 
 ## Table of Contents
-* [Fundamental papers](#fundamental-papers)
+* [Social science insightss](#social-science-insights)
 * [Pertinent negatives](#pertinent-negatives)
 * [Natural language explanations](#natural-language-explanations)
 * [Planning and Reinforcement learning](#planning-and-reinforcement-learning)
 
 
-## Fundamental papers
+## Social science insights
 
+* **Explanation in artificial intelligence: Insights from the social sciences** (2019 Artificial intelligence), Tim Miller [arxiv](https://arxiv.org/abs/1706.07269)
+* **Contrastive Explanation: A Structural-Model Approach** (2018), Tim Miller [arxiv](https://arxiv.org/abs/1811.03163)
 * **Explainable AI: Beware of Inmates Running the Asylum Or: How I Learnt to Stop Worrying and Love the Social and Behavioural Sciences** (2017 IJCAI workshop XAI), Tim Miller, Piers Howe, Liz Sonenberg [arxiv](https://arxiv.org/abs/1712.00547)
 
 ## Pertinent negatives
@@ -23,5 +25,6 @@ A curated list of awesome papers on contrastive explanation in ML.
 
 ## Planning and Reinforcement learning
 
+* **Explainable AI Planning (XAIP): Overview and the Case of Contrastive Explanation** (2019 Reasoning Web), 	Jörg Hoffmann, Daniele Magazzeni
 * **Towards Explainable AI Planning as a Service** (2019 ICAPS workshop XAI workshop), Michael Cashmore, Anna Collins, Benjamin Krarup, Senka Krivic, Daniele Magazzeni, David Smith [arxiv](https://arxiv.org/abs/1908.05059)
 * **Contrastive Explanations for Reinforcement Learning in terms of Expected Consequences** (2018), Jasper van der Waa, Jurriaan van Diggelen, Karel van den Bosch, Mark Neerincx [arxiv](https://arxiv.org/abs/1807.08706)
