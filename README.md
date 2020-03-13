@@ -23,6 +23,7 @@ A curated list of awesome papers on contrastive explanation in ML.
 
 ## Natural language explanations
 
+* **Conversational Explanations of Machine Learning Predictions Through Class-contrastive Counterfactual Statements** (2018 IJCAI), Kacper Sokol, Peter Flach [[link]](https://www.ijcai.org/Proceedings/2018/836)
 * **Generating Counterfactual Explanations with Natural Language** (2018 ICML workshop WHI), Lisa Anne Hendricks, Ronghang Hu, Trevor Darrell, Zeynep Akata [[arxiv]](https://arxiv.org/abs/1806.09809)
 
 ## Planning and Reinforcement learning
