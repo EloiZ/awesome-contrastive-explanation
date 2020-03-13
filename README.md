@@ -13,6 +13,7 @@ A curated list of awesome papers on contrastive explanation in ML.
 * **Explanation in artificial intelligence: Insights from the social sciences** (2019 Artificial intelligence), Tim Miller [[arxiv]](https://arxiv.org/abs/1706.07269)
 * **Contrastive Explanation: A Structural-Model Approach** (2018), Tim Miller [[arxiv]](https://arxiv.org/abs/1811.03163)
 * **Explainable AI: Beware of Inmates Running the Asylum Or: How I Learnt to Stop Worrying and Love the Social and Behavioural Sciences** (2017 IJCAI workshop XAI), Tim Miller, Piers Howe, Liz Sonenberg [[arxiv]](https://arxiv.org/abs/1712.00547)
+* **Why P rather than Q? The curiosities of fact and foil** (1994 Philosophical Studies), Eric Barnes
 
 ## Pertinent negatives
 
