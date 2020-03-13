@@ -3,7 +3,7 @@ A curated list of awesome papers on contrastive explanation in ML.
 
 ## Table of Contents
 * [Social science and philosophical insights](#social-science-and-philosophical-insights)
-* [Pertinent negatives](#pertinent-negatives)
+* [Local explanations](#local-explanations)
 * [Natural language explanations](#natural-language-explanations)
 * [Planning and Reinforcement learning](#planning-and-reinforcement-learning)
 
@@ -16,8 +16,9 @@ A curated list of awesome papers on contrastive explanation in ML.
 * **Why P rather than Q? The curiosities of fact and foil** (1994 Philosophical Studies), Eric Barnes
 * **Contrastive Explanation and Causal Triangulation** (1991 Philosophy of Science), Peter Lipton 
 
-## Pertinent negatives
+## Local explanations
 
+* **Learning Global Transparent Models from Local Contrastive Explanations** (2020), Tejaswini Pedapati, Avinash Balakrishnan, Karthikeyan Shanmugam, Amit Dhurandhar [[arxiv]](https://arxiv.org/abs/2002.08247)
 * **Generating Contrastive Explanations with Monotonic Attribute Functions** (2019), Ronny Luss, Pin-Yu Chen, Amit Dhurandhar, Prasanna Sattigeri, Yunfeng Zhang, Karthikeyan Shanmugam, Chun-Chen Tu [[arxiv]](https://arxiv.org/abs/1905.12698)
 * **Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives** (2018 NeurIPS) Amit Dhurandhar, Pin-Yu Chen, Ronny Luss, Chun-Chen Tu, Paishun Ting, Karthikeyan Shanmugam, Payel Das [[arxiv]](https://arxiv.org/abs/1802.07623)
 
