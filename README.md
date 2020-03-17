@@ -16,7 +16,7 @@ A curated list of awesome papers on contrastive explanation in ML.
 * **Why P rather than Q? The curiosities of fact and foil** (1994 Philosophical Studies), Eric Barnes
 * **Contrastive Explanation and Causal Triangulation** (1991 Philosophy of Science), Peter Lipton 
 
-## Local explanations
+## Pertinent positives/negatives (local explanations)
 
 * **Learning Global Transparent Models from Local Contrastive Explanations** (2020), Tejaswini Pedapati, Avinash Balakrishnan, Karthikeyan Shanmugam, Amit Dhurandhar [[arxiv]](https://arxiv.org/abs/2002.08247)
 * **Model Agnostic Contrastive Explanations for Structured Data** (2019), Amit Dhurandhar, Tejaswini Pedapati, Avinash Balakrishnan, Pin-Yu Chen, Karthikeyan Shanmugam, Ruchir Puri [[arxiv]](https://arxiv.org/abs/1906.00117)
