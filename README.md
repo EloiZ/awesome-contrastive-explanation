@@ -19,6 +19,7 @@ A curated list of awesome papers on contrastive explanation in ML.
 ## Local explanations
 
 * **Learning Global Transparent Models from Local Contrastive Explanations** (2020), Tejaswini Pedapati, Avinash Balakrishnan, Karthikeyan Shanmugam, Amit Dhurandhar [[arxiv]](https://arxiv.org/abs/2002.08247)
+* **Model Agnostic Contrastive Explanations for Structured Data** (2019), Amit Dhurandhar, Tejaswini Pedapati, Avinash Balakrishnan, Pin-Yu Chen, Karthikeyan Shanmugam, Ruchir Puri [[arxiv]](https://arxiv.org/abs/1906.00117)
 * **Generating Contrastive Explanations with Monotonic Attribute Functions** (2019), Ronny Luss, Pin-Yu Chen, Amit Dhurandhar, Prasanna Sattigeri, Yunfeng Zhang, Karthikeyan Shanmugam, Chun-Chen Tu [[arxiv]](https://arxiv.org/abs/1905.12698)
 * **Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives** (2018 NeurIPS) Amit Dhurandhar, Pin-Yu Chen, Ronny Luss, Chun-Chen Tu, Paishun Ting, Karthikeyan Shanmugam, Payel Das [[arxiv]](https://arxiv.org/abs/1802.07623)
 
