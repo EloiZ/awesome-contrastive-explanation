@@ -1,5 +1,5 @@
 # awesome-contrastive-explanation
-A curated list of awesome papers on contrastive explanation in ML.
+A curated list of papers on contrastive explanation in ML.
 
 ## Table of Contents
 * [Social science and philosophical insights](#social-science-and-philosophical-insights)
